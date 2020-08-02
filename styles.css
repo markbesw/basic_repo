@@ -1,0 +1,17 @@
+/* set default margin and padding */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    height: 300px;
+    width: 400px;
+    background-color: darkorange;
+}
+
+p{
+    font-size: 24pt;
+    font-weight: bold;
+}
